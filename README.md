@@ -1,7 +1,7 @@
 ### Salve Quaresma Aqui
 
 - 👨‍💻 Programador iniciante
-- 📚 Estudando HTML, CSS E JAVASCRIPT
+- 📚 Estudando HTML, CSS, JAVASCRIPT E Python 
 
 <div align="center">
   <a href="https://github.com/QuaresmaOFC">
