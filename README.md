@@ -3,7 +3,7 @@
 </div>
 <div>
 - 👨‍💻 Programador iniciante<br>
-- 📚 Estudando HTML, CSS, JAVASCRIPT E Python
+- 📚 Estudando HTML, CSS, JAVASCRIPT E PYTHON
 </div><br> 
 <div>
   <a href="https://github.com/QuaresmaOFC">
