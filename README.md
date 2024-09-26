@@ -4,7 +4,7 @@
 - <div>
   <a href="https://github.com/QuaresmaOFC">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=quaresmaofc&show_icons=true&bg_color=00000000">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quaresmaofc&layout=donut&bg_color=00000000">
+  
 </div>
 
 ##
